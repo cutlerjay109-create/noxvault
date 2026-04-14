@@ -870,14 +870,6 @@ export default function App() {
               </svg>
             </span>
           </a>
-          <a
-            href="https://x.com/levr_nx"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ color: dark ? "rgba(255,255,255,0.35)" : "rgba(0,0,0,0.3)", textDecoration: "none", letterSpacing: "0.04em", fontSize: 11 }}
-          >
-            ⚙️
-          </a>
         </div>
 
       </div>
