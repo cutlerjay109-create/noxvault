@@ -876,7 +876,7 @@ export default function App() {
             rel="noopener noreferrer"
             style={{ color: dark ? "rgba(255,255,255,0.35)" : "rgba(0,0,0,0.3)", textDecoration: "none", letterSpacing: "0.04em", fontSize: 11 }}
           >
-            @levr_nx
+            ⚙️
           </a>
         </div>
 
